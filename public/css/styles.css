@@ -1,0 +1,21 @@
+body{
+    background-color: crimson;
+}
+
+.hero{
+    background-image: url("../img/ss.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 50px 0;
+    min-height:500px;
+    position: relative;
+}
+
+.hero-content{
+    position: absolute;
+    top:50%;
+    text-align: center;
+    width:100%;
+
+}
